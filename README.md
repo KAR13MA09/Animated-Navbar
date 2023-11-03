@@ -5,7 +5,7 @@
 # Screenshot
 Here we have project screenshot 
 
-![Eth](<img src="https://github.com/KAR13MA09/Animated-Navbar/blob/main/3.png")
+![Eth](https://github.com/KAR13MA09/Animated-Navbar/blob/main/3.png")
 
 # Ngôn Ngữ
 <img src="https://camo.githubusercontent.com/90b284b4f542180aeb3bfa244cf0a86d451f9ebc95f9cffe71dc8f73da41b7a7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352d2532334533344632362e7376673f7374796c653d706c6173746963266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" alt="HTML5" data-canonical-src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&amp;logo=html5&amp;logoColor=white" style="max-width: 100%;">
