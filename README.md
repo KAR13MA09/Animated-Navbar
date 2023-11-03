@@ -4,7 +4,6 @@
 
 # Screenshot
 Here we have project screenshot 
-![Uploading 1.png…]()
 <img src="https://github.com/KAR13MA09/Animated-Navbar/blob/main/3.png"
 
 # Ngôn Ngữ
